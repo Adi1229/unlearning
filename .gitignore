@@ -1,0 +1,14 @@
+# data
+data
+
+# vm
+env
+
+# generated
+ml_speech_projects
+__pycache__
+recordings
+visualizations
+
+# editor files
+.vscode
